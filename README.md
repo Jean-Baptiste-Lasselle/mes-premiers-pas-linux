@@ -10,7 +10,24 @@ Lorsque mes équipes font passer un de ces collaborateurs, d'un poste Windows, �
 
 Ce repo constitue un support de formation dans le cadre de plans de formations, eux-mêmes incluts dans de tels plans de conduite du changement :  "Migration Linux des postes utilisateurs"
 
-Il s'agit d'une suit de tutoriels, destinés au périmètre des collaborateurs `non-IT`
+Il s'agit d'une suit de tutoriels, destinés au périmètre des collaborateurs `non-IT`, dfestinés à les familiariser avec l'utilisation de leur nouveau poste Linux. 
+
+Les formations sont faites sur des postes `Debian Stretch - GNOME`
+
+Ce tutoriel propose une approche de la technologie Linux spécifiquement destinée aux professionnels non-issus du secteur des technologies de l'information.
+
+Cette approche a ceci de caractéristique qu'elle propose à ces professionels une approche que je qualifie de `git-first approach` :  Là où l'écrasante majorité de notre corporation considèrerait probablement qu'un logiciel tel que `git`, est absolument inabordable pour le personnel "`non-IT`", je me demande si cet à priori ne serait pas une erreur qui nous fait manquer quelque chose... de valeur.
+
+> "Believe me, Linux is nothing, compared to Git."
+_Linus Torvalds_ 
+_(Et je suis entièrement d'accord avec lui)_
+
+
+C'est le sens de cette expérience : Si l'on écoute dire Linus Torvalds, `Git`, est plus fort en nouveau concept, que Linux. Avec les enfants, les concepts les plus difficiles, doivent être apportés au plus jeune, pour mûrir.
+
+Alors il peut-être tmeps de démarrer les initiations Linux, en commençant par `Git` au plus tôt.
+
+
 
 ## Le Shell
 
