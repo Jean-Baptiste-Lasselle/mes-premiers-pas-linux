@@ -64,7 +64,7 @@ sudo apt-get install -y tree
 _Utilisation_
 
 Exécutez une par une, les lignes ci-dessous.
-Si une ligne provoque une erreur, passez à la suivante, san la ré-essayer.
+Si une ligne provoque une erreur, passez à la suivante, sans essayer d'exécuter une nouvelle fois la commande ayant échoué.
 
 ```bash
 ls 
