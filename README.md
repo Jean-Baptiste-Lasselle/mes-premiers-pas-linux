@@ -28,12 +28,7 @@ C'est le sens de cette expérience : Si l'on écoute dire Linus Torvalds, `Git`,
 Alors il peut-être tmeps de démarrer les initiations Linux, en commençant par `Git` au plus tôt.
 
 
-
-## Le Shell
-
-Le formateur montre à tout les stagiaires coment, sur leur poste linux, ils peuvent "Ouvrir un shell".
-
-## Shell/sh/bash/bin
+## MEMENTO #! Shell/sh/bash/bin
 
 Notions de systèmes de fichiers : 
 
@@ -48,3 +43,54 @@ Notions de systèmes de fichiers :
 | ```bash git add --all ``` | ccc | ccc | ccc |
 | ```bash git commit -m "votre message pour ce commit" ``` | ccc | ccc | ccc |
 | ```bash git push ``` | ccc | ccc | ccc |
+
+
+## Exercices
+
+### Exercice 1 : systèmes de fichiers
+
+
+### Exercie 2 : `tree`
+
+`tree` est un logiciel. Il est possible de l'installer sous votre machine Linux, avec la commande : 
+
+_Intallation_
+
+```bash
+sudo apt-get install -y tree
+```
+
+
+_Utilisation_
+
+Exécutez une par une, les lignes ci-dessous.
+Si une ligne provoque une erreur, passez à la suivante, san la ré-essayer.
+
+```bash
+ls 
+tree
+tree .
+mkdir torvaldsgitfirst
+ls -allh torvaldsgitfirst
+pwd
+cd torvaldsgitfirst
+pwd
+tree
+mkdir rep2
+tree
+mkdir rep1/rep3
+tree
+mkdir rep1
+tree
+mkdir rep5/rep9
+tree
+mkdir -p rep5/rep9
+tree
+```
+
+
+
+
+### Exercice 3 : bitbucket repo privé + cycle git local
+
+
